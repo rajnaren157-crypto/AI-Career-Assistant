@@ -136,7 +136,7 @@ def evaluate_answer(question, answer):
     # RELEVANCE SCORE
     # =========================
 
-    relevance_score = 0
+    relevance_score = 0      
 
     for word in selected_category["keywords"]:
 
